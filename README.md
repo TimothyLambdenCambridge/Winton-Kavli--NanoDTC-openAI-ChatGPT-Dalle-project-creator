@@ -1,9 +1,10 @@
 # Winton-Kavli-ChatGPT-Dalle-project-creator
 This project stems from the project proposal exercise for the Winton-Kavli Workshop 10-14 July 2023.
 
+This was my attempt at automating the Project Proposal exercise we were given, and exploring using chatGPT API keys.
+
 **NOTE: a ChatGPT API key is needed for this to work! If you don't have one then sadly this will not work for you.**
 
-This was my attempt at automating the Project Proposal exercise we were given, and exploring using chatGPT API keys.
 
 ## How this script works:
 1.  Randomly selects a student from Cambridge and Berkeley
