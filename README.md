@@ -15,8 +15,6 @@ More effort should be spent on instructing ChatGPT to improve the quality of the
 but some of it doesn't make much sense and merely combines the text of the separate projects together instead of trying to accurately combine the projects into 1 project.
 
 Contained: 
-  A pdf detailing the contents of the workshop
-  
-  A csv file that contains the data of the attendees given in the pdf. **Name  Cambridge(y/n)  Project title  Project  Keywords**
- 
-  A python file that picks a random Cambridge & Berkeley student and inputs their data into a chatGPT using a chatGPT API key.
+1.  A pdf detailing the contents of the workshop
+2.  A csv file that contains the data of the attendees given in the pdf. **Name  Cambridge(y/n)  Project title  Project  Keywords**
+3.  A python file that picks a random Cambridge & Berkeley student and inputs their data into a chatGPT using a chatGPT API key.
