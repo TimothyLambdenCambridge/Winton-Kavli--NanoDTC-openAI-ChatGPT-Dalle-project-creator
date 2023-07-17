@@ -3,6 +3,8 @@ This project stems from the project proposal exercise for the Winton-Kavli Works
 
 This was my attempt at automating the Project Proposal exercise we were given, and exploring using chatGPT API keys.
 
+Please have a look at the example projects to get an idea of the types of outputs you can expect!
+
 **NOTE: a ChatGPT API key is needed for this to work! If you don't have one then sadly this will not work for you.**
 
 
